@@ -1,0 +1,4 @@
+Student Name: Remia Panadera
+Student ID: 2025-01-09867
+Section: BSCS 2B
+Course: CS 106 - App Dev
